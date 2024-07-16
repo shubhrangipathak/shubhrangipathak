@@ -1,3 +1,5 @@
+[![An image of @shubhipathak11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhipathak11)](https://holopin.io/@shubhipathak11)
+
 <h1 align="center">Hi 👋, I'm Shubhrangi Pathak</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
