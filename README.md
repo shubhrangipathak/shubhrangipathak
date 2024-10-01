@@ -17,9 +17,8 @@
 
 - 📫 How to reach me **shubhrangip.11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Mlw74Mz9dod13s-yl3UTXACK66aR6xaa/view?usp=sharing](https://drive.google.com/file/d/1Mlw74Mz9dod13s-yl3UTXACK66aR6xaa/view?usp=sharing)
 
-- ⚡ Fun fact **I think am a potterhead**
+- ⚡ Fun fact **There's no place like 127.0.0.1**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
